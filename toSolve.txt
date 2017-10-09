@@ -1,0 +1,5 @@
+oddeven
+intvsum
+mulsum
+cb3
+elev2
